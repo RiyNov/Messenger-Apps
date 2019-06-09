@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "816814062346",
+    "firebase_url": "https://messengerapp-kotlin.firebaseio.com",
+    "project_id": "messengerapp-kotlin",
+    "storage_bucket": "messengerapp-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816814062346:android:ae2dbe938c632ba4",
+        "android_client_info": {
+          "package_name": "com.riynov.kotlin.riymessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816814062346-9i61eujp1b5esj815agdkib9lu4bpbec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJnS6CXq9q_ZQ0Uz7ZYYM138eP7pfIP6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816814062346-9i61eujp1b5esj815agdkib9lu4bpbec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
